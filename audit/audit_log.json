@@ -1,0 +1,205 @@
+[
+  {
+    "timestamp": "2026-01-09T02:09:38.031278",
+    "actor": "CEO",
+    "action": "RESET_PASSWORD",
+    "target": "ciso",
+    "details": "ciso@123 -> reset@123"
+  },
+  {
+    "timestamp": "2026-01-09T02:12:50.862320",
+    "actor": "CEO",
+    "action": "CHANGE_ROLE",
+    "target": "ciso",
+    "details": "CISO -> CEO"
+  },
+  {
+    "timestamp": "2026-01-09T02:13:00.787820",
+    "actor": "CEO",
+    "action": "CHANGE_ROLE",
+    "target": "ciso",
+    "details": "CEO -> Branch Manager"
+  },
+  {
+    "timestamp": "2026-01-09T02:18:42.308019",
+    "actor": "CEO",
+    "action": "DISABLE_ACCOUNT",
+    "target": "dev1",
+    "details": "Account disabled"
+  },
+  {
+    "timestamp": "2026-01-09T02:18:57.491942",
+    "actor": "CEO",
+    "action": "CHANGE_ROLE",
+    "target": "ceo",
+    "details": "CEO -> IAM Engineer"
+  },
+  {
+    "timestamp": "2026-01-10T01:06:40.422751",
+    "actor": "CEO",
+    "action": "ENABLE_ACCOUNT",
+    "target": "dev1",
+    "details": "Account enabled"
+  },
+  {
+    "timestamp": "2026-01-10T01:06:53.982878",
+    "actor": "CEO",
+    "action": "DISABLE_ACCOUNT",
+    "target": "ciso",
+    "details": "Account disabled"
+  },
+  {
+    "timestamp": "2026-01-10T01:13:17.218808",
+    "actor": "ceo",
+    "action": "LOGIN_SUCCESS",
+    "target": "ceo",
+    "details": "Successful login with MFA"
+  },
+  {
+    "timestamp": "2026-01-10T01:13:20.076611",
+    "actor": "CEO",
+    "action": "ENABLE_ACCOUNT",
+    "target": "ciso",
+    "details": "Account enabled"
+  },
+  {
+    "timestamp": "2026-01-10T01:13:43.974512",
+    "actor": "ciso",
+    "action": "LOGIN_SUCCESS",
+    "target": "ciso",
+    "details": "Successful login with MFA"
+  },
+  {
+    "timestamp": "2026-01-10T01:14:07.266684",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 1"
+  },
+  {
+    "timestamp": "2026-01-10T01:14:09.826881",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 2"
+  },
+  {
+    "timestamp": "2026-01-10T01:14:12.182178",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 3"
+  },
+  {
+    "timestamp": "2026-01-10T01:14:12.184191",
+    "actor": "ciso",
+    "action": "ACCOUNT_LOCKED",
+    "target": "ciso",
+    "details": "Too many failed MFA attempts"
+  },
+  {
+    "timestamp": "2026-01-10T01:14:19.275389",
+    "actor": "ciso",
+    "action": "LOGIN_BLOCKED",
+    "target": "ciso",
+    "details": "Account locked due to failed MFA"
+  },
+  {
+    "timestamp": "2026-01-10T01:14:27.917921",
+    "actor": "ciso",
+    "action": "LOGIN_BLOCKED",
+    "target": "ciso",
+    "details": "Account locked due to failed MFA"
+  },
+  {
+    "timestamp": "2026-01-10T01:19:57.275813",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 1"
+  },
+  {
+    "timestamp": "2026-01-10T01:19:59.637108",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 2"
+  },
+  {
+    "timestamp": "2026-01-10T01:20:01.694108",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 3"
+  },
+  {
+    "timestamp": "2026-01-10T01:20:01.695109",
+    "actor": "ciso",
+    "action": "ACCOUNT_LOCKED",
+    "target": "ciso",
+    "details": "Too many failed MFA attempts"
+  },
+  {
+    "timestamp": "2026-01-10T01:26:18.363539",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 1"
+  },
+  {
+    "timestamp": "2026-01-10T01:26:20.944006",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 2"
+  },
+  {
+    "timestamp": "2026-01-10T01:26:23.459264",
+    "actor": "ciso",
+    "action": "MFA_FAILED",
+    "target": "ciso",
+    "details": "Failed MFA attempt 3"
+  },
+  {
+    "timestamp": "2026-01-10T01:26:23.462330",
+    "actor": "ciso",
+    "action": "ACCOUNT_LOCKED",
+    "target": "ciso",
+    "details": "Too many failed MFA attempts"
+  },
+  {
+    "timestamp": "2026-01-10T01:32:28.894400",
+    "actor": "ciso",
+    "action": "LOGIN_SUCCESS",
+    "target": "ciso",
+    "details": "Successful login with MFA"
+  },
+  {
+    "timestamp": "2026-01-10T02:00:19.989282",
+    "actor": "ciso",
+    "action": "LOGIN_SUCCESS",
+    "target": "ciso",
+    "details": "Successful login with MFA"
+  },
+  {
+    "timestamp": "2026-01-10T02:04:14.687034",
+    "actor": "ciso",
+    "action": "LOGIN_SUCCESS",
+    "target": "ciso",
+    "details": "Successful login with MFA"
+  },
+  {
+    "timestamp": "2026-01-10T02:06:07.336400",
+    "actor": "ciso",
+    "action": "LOGIN_SUCCESS",
+    "target": "ciso",
+    "details": "Successful login with MFA"
+  },
+  {
+    "timestamp": "2026-01-10T02:10:21.210495",
+    "actor": "ciso",
+    "action": "LOGIN_SUCCESS",
+    "target": "ciso",
+    "details": "Successful login with MFA"
+  }
+]

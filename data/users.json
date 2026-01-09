@@ -1,0 +1,51 @@
+[
+  {
+    "username": "ceo",
+    "password": "ceo@123",
+    "role": "CEO",
+    "mfa_secret": "JBSWY3DPEHPK3PXP",
+    "failed_mfa_attempts": 0,
+    "lock_until": null,
+    "entitlements": [],
+    "jit_entitlements": []
+  },
+  {
+    "username": "cfo",
+    "password": "reset@123",
+    "role": "CFO",
+    "mfa_secret": "KZXW6YTBOI======",
+    "failed_mfa_attempts": 0,
+    "lock_until": null,
+    "entitlements": [],
+    "jit_entitlements": []
+  },
+  {
+    "username": "ciso",
+    "password": "reset@123",
+    "role": "CISO",
+    "mfa_secret": "WMERT552IPKBCNBWLGAZXEV6FEXOHLAK",
+    "active": true,
+    "failed_mfa_attempts": 0,
+    "lock_until": null,
+    "entitlements": [],
+    "jit_entitlements": []
+  },
+  {
+    "username": "dev1",
+    "password": "dev@123",
+    "role": "Developer1",
+    "mfa_secret": "GEZDG===",
+    "active": true,
+    "failed_mfa_attempts": 0,
+    "lock_until": null,
+    "entitlements": [
+      "cloud_admin"
+    ],
+    "jit_entitlements": [
+      {
+        "entitlement": "cloud_admin",
+        "expires_at": "2026-01-10T03:00:00"
+      }
+    ]
+  }
+]
